@@ -1,0 +1,35 @@
+_repo: The-disciple_73638
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bourget, Paul
+    aliases:
+    - Bourget, Paul Charles Joseph
+    - Bourget, Charles Joseph Paul
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '1346'
+    url: http://www.gutenberg.org/2009/agents/1346
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Bourget
+    - https://fr.wikipedia.org/wiki/Paul_Bourget
+description: ''
+gutenberg_issued: '2024-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73638'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/100769234
+pgterms:marc905: 20231029044522bourget
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aNew York :$bC. Scribner''s sons, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The disciple
+url: http://www.gutenberg.org/ebooks/73638
